@@ -4,11 +4,6 @@ function goToFlagPage2() {
   // 实现页面跳转逻辑
 }
 
-function goToFlagPage() {
-  console.log('前往开发者立过的flag页面');
-  // 实现页面跳转逻辑
-}
-
 function goToSponsorPage() {
   console.log('前往赞助开发者页面');
   // 实现页面跳转逻辑
