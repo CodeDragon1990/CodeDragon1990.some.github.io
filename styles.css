@@ -57,11 +57,3 @@ header, footer {
   cursor: pointer;
 }
 
-
-body {
-  background-image: url('./R-C.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
