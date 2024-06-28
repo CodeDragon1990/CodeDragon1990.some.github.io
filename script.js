@@ -13,5 +13,5 @@ function goToSponsorPage() {
 }
 
 function goToVotePage() {
-  window.location.href = 'vip.html';
+  window.location.href = 'vote.html';
 }
