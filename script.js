@@ -5,12 +5,11 @@ function goToFlagPage2() {
 }
 
 function goToFlagPage() {
-  window.location.href = 'flag.html';
+  window.location.href = 'ui/flag.html';
 }
 
 function goToSponsorPage() {
-  console.log('前往赞助开发者页面');
-  // 实现页面跳转逻辑
+  window.location.href = 'vip.html';
 }
 
 function goToVotePage() {
