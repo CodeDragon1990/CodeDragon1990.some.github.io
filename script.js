@@ -13,6 +13,5 @@ function goToSponsorPage() {
 }
 
 function goToVotePage() {
-  console.log('前往给偶像投票页面');
-  // 实现页面跳转逻辑
+  window.location.href = 'vip.html';
 }
